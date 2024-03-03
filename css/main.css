@@ -365,7 +365,7 @@ header nav {
   width: 100%;
 }
 header nav .nav-container {
-  position: relative;
+  position: fixed;
   display: flex;
   justify-content: space-between;
 }

@@ -12,4 +12,3 @@
 - [AOS](https://github.com/michalsnik/aos) - Scroll animations
 - [Iconify](https://iconify.design/) - Icons used
 - [Formspree](https://formspree.io/) - Contact Form
-Design by ben04rogers
